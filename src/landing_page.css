@@ -1,0 +1,62 @@
+h6 {
+    color: white;
+    font-size: 25px;
+}
+
+.background-image {
+    background-image: url(src/assets/house.jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    width: 100vw;
+}
+
+img {
+    padding-left: 50px;
+}
+
+.icons {
+    display: flex;
+    gap: 4em;
+}
+
+.container {
+    display: flex;
+}
+
+#text {
+    padding-top: 90px;
+    padding-left: 1em;
+    color: white;
+}
+
+#map {
+    width: 300px;
+    height: 300px;
+    padding-top: 35px;
+    padding-left: 16em;
+}
+
+button {
+    padding: 15px 15px 15px 15px;
+    border-radius: 10px;
+}
+
+.btn {
+    margin-left: 18em;
+}
+
+.text {
+    padding-left: 3em;
+}
+
+.image {
+    display: flex;
+    height: 20em;
+}
+
+
+
+.second {
+    padding-top: 1em;
+}
